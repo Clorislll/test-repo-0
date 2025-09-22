@@ -1,5 +1,8 @@
 # test-repo-0
-lalalal
-lalala
-lalalla
+
+edit
+
+this is a local change
 this is a remote change
+
+edit
